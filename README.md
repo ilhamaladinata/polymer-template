@@ -1,3 +1,4 @@
+![alt text](https://github.com/excelpic/polymer-template/blob/main/nice.jpg?raw=true)
 # ⛓️🔗⛓️ Template for IBC enabled Solidity contracts
 
 This repo provides a starter project to build [IBC](https://github.com/cosmos/ibc) enabled Solidity contracts that connect rollups to one another Polymer Hub, through the [vIBC core contracts](https://github.com/open-ibc/vibc-core-smart-contracts).
